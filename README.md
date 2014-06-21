@@ -9,3 +9,5 @@ facial_expression_recognition
 http://sourceforge.net/projects/opencvlibrary/files/opencv-win/2.4.9/opencv-2.4.9.exe/download
 است sqliteپایگاه داده مورد استفاده 
  
+پیاده سازی تا قبل از بخش دسته بندی داده ها صورت گرفته است
+ادامه پیاده سازی پس از تکمیل قرار داده خواهد شد
